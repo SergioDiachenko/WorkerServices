@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "QueueService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
